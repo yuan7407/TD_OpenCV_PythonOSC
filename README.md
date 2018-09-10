@@ -1,5 +1,4 @@
-# Face Detection Function in Python for Touchdesigner
-# 通过Python实现TD的面部识别功能
+# Face Detection Function in Python for TouchDesigner
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
@@ -10,7 +9,7 @@ Touchdesigner itself doesn't have the function of developing face detection for 
 When you don't have Kinect or RealSense at hand, you can consider using your PC/labtop's own camera as the input method of TouchDesigner.
 Python combines the OpenCV library to implement simple face recognition and pass data to TD via OSC.
 
-一个为TD使用的人脸识别小工具。
+一个通过Python实现TD的面部识别功能的小工具。
 Touchdesigner本身并没有针对摄像头来开发人脸识别的功能，当你手头没有Kinect、RealSense的时候可以考虑用你电脑本身的摄像头作为TouchDesigner的输入方式。
 Python结合OpenCV库实现简易的人脸识别后，通过OSC将数据传给TD。
 
