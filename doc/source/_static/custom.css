@@ -1,0 +1,75 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset=latin,cyrillic);
+
+html, body {
+    background: #121212;
+    color: #888;
+    }
+
+a,
+div.sphinxsidebar a {
+    color: #2aa5dd;
+    text-decoration: none;
+    border-bottom: none;
+    }
+
+a:focus, a:hover {
+    color: #ff7e0f;
+    text-decoration: none;
+    }
+
+a:focus {
+    outline: dotted thin;
+    outline: -webkit-focus-ring-color auto 5px;
+    outline-offset: -2px;
+    }
+
+div.footer {
+    text-align: center;
+    padding: 6em 0 3em 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    }
+
+div.body {
+    background: none;
+    color: #888;
+    }
+
+div.body h1,
+div.body h2,
+div.body h3,
+div.body h4,
+div.body h5,
+div.body h6 {
+    font-weight: 300;
+    color: #f1f1f1;
+    }
+
+div.sphinxsidebar h3,
+div.sphinxsidebar h4,
+div.sphinxsidebar h3 a {
+    font-weight: 300;
+    color: #f1f1f1;
+    }
+
+div.highlight {
+    color: #222;
+    }
+
+
+tt.descname, tt.descclassname, code.descname, code.descclassname,
+.sig-paren {
+    color: #eeeeee;
+    }
+
+dl.method dd {
+    }
+
+dl.class em {
+    color: #ff7e0f;
+    }
+
+div.sphinxsidebar ul li.toctree-l1 > a {
+    font-size: 1em;
+    }

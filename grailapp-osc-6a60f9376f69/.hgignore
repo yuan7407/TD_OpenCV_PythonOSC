@@ -1,0 +1,14 @@
+syntax: glob
+
+bin/*
+dist/*
+.idea/*
+build/*
+__pycache__/*
+osc.egg-info/*
+
+*~
+*.pyc
+*.pyo
+*.log
+Thumbs.db
