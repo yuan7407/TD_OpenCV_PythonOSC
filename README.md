@@ -1,4 +1,5 @@
-# Face Detection Function in Python for Touchdesigner 通过Python实现TD的面部识别功能
+# Face Detection Function in Python for Touchdesigner
+# 通过Python实现TD的面部识别功能
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
